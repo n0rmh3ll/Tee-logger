@@ -23,15 +23,15 @@ This is a updated Python keylogger that logs keystrokes and sends them to a spec
 ```bash
   pip install keyboard request
 ```
-* 3 : Obtain Telegram Bot Token and Chat ID
+* 3 : Obtain `Telegram Bot Token` and `Chat ID`
   
-    * Create a new bot using BotFather on Telegram.
+    * Create a new bot using [@BotFather](https://t.me/BotFather) on Telegram.
     * Obtain the bot token provided by BotFather.
-    * Start a chat with your bot and get the chat ID using tools like getids.net or simply use [@MissRose_bot](https://t.me/MissRose_bot) and use /id command for chat id
+    * Start a chat with your bot and get the chat ID using tools like `getids.net` or simply use [@MissRose_bot](https://t.me/MissRose_bot) and use /id command for chat id
 
 * 4 : Configure the Script
 
-Update the configuration variables in Tee-logger.py
+Update the configuration variables in `Tee-logger.py`
 
 `CHAT_ID:` Your Telegram chat ID.
 
