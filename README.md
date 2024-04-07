@@ -1,4 +1,4 @@
-![Tee-logger](https://socialify.git.ci/n0rmh3ll/Tee-logger/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark)
+![Tee-logger](https://socialify.git.ci/n0rmh3ll/Tee-logger/image?description=1&descriptionEditable=A%20basic%20keylogger%20script%20written%20in%20python%20which%20sends%20%20captures%20keystrokes%20and%20%20data%20to%20Telegram%20&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark)
 
 ## Overview
 This is a updated Python keylogger that logs keystrokes and sends them to a specified Telegram chat using a Telegram bot. This project can be used for monitoring keystrokes and receiving notifications in real-time.
