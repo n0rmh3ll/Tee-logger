@@ -9,7 +9,7 @@ This is a updated Python keylogger that logs keystrokes and sends them to a spec
 * Keylogging: Captures keystrokes in real-time and logs them into a designated file.
 * Telegram Integration: Sends logged keystrokes to a specified Telegram chat, enabling remote monitoring.
 
-# Getting Started
+# Getting Started 🚀 
 ## Prerequisites
 * Python 3.x
 * keyboard library (`pip install keyboard`)
@@ -42,3 +42,20 @@ Run the script, and it will start sending key presses, along with timestamps in 
 ```bash
 python3 tee-logger.py
 ```
+* Stop the Keylogger:
+
+Press `Ctrl+C` to stop the keylogger
+
+## Security Considerations
+Ensure that you have appropriate permissions before running this script, as it monitors keystrokes.
+Avoid running the keylogger on systems where you don't have authorization or where monitoring keystrokes could violate privacy laws or policies.
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://n0rmh3ll.me/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n0rmh3ll/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/n0rmh3ll)
+
+## Contributing
+Contributions are welcome! Please feel free to submit pull requests to improve the project.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
