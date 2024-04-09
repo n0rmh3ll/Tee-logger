@@ -63,4 +63,4 @@ Avoid running the keylogger on systems where you don't have authorization or whe
 Contributions are welcome! Please feel free to submit pull requests to improve the project.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/n0rmh3ll/Tee-logger/blob/main/LICENSE) file for details.
