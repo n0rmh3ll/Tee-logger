@@ -5,7 +5,7 @@ This is a updated Python keylogger that logs keystrokes and sends them to a spec
 
 * **Note: The use of keyloggers without explicit consent is unethical and potentially illegal. This script is intended for educational purposes only, and it is crucial to respect privacy and adhere to applicable laws and regulations** 
 
-# Features
+# Features 
 * Keylogging: Captures keystrokes in real-time and logs them into a designated file.
 * Telegram Integration: Sends logged keystrokes to a specified Telegram chat, enabling remote monitoring.
 
